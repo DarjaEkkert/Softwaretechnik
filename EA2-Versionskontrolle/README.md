@@ -51,8 +51,13 @@ Danach wurden die Änderungen wieder in `main` zusammengeführt.
 
 ## Test Text für Aufgabe 6
 
-## Aufgabe 6 – Pull / Fetch durchgeführt
+Pull / Fetch durchgeführt
 
 Das lokale Repository wurde mit GitHub synchronisiert.
 
 ![Pull](screenshots/08-pull.png)
+
+## Aufgabe 6 – Pull Request
+
+Pull Request:
+https://github.com/edlich/education/pull/603
