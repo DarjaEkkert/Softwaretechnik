@@ -27,3 +27,24 @@ Die Datei `script.js` wurde in `buch.js` umbenannt.
 Zusätzlich wurde die Referenz in der HTML-Datei angepasst.
 
 ![Datei umbenannt](screenshots/05-datei-umbenannt.png)
+
+
+
+## Aufgabe 4 – Zeitreise mit Git
+
+Mit `git log` wurde die Projektgeschichte angezeigt.
+
+![git log](screenshots/07-git-log.png)
+
+
+
+## Aufgabe 5 - Branches und Merge
+Es wurden zwei Branches erstellt:
+
+- feature-farbe
+- feature-text
+
+Danach wurden die Änderungen wieder in `main` zusammengeführt.
+
+![Merge](screenshots/06-merge-branches.png)
+![Merge](screenshots/08-branch-farbe.png)
