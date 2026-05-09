@@ -13,3 +13,17 @@ Für die Einsendeaufgabe wurde ein kleines Webprojekt
 Das Projekt empfiehlt zufällig Bücher per Button.
 
 ![Projekt](screenshots/03-kleines-projekt.png)
+
+## Aufgabe 3 – git diff verwendet
+
+Mit `git diff` wurden Änderungen im Projekt angezeigt.
+
+![git diff](screenshots/04-git-diff.png)
+
+Datei umbenannt
+
+Die Datei `script.js` wurde in `buch.js` umbenannt.
+
+Zusätzlich wurde die Referenz in der HTML-Datei angepasst.
+
+![Datei umbenannt](screenshots/05-datei-umbenannt.png)
