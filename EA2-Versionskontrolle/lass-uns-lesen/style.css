@@ -1,0 +1,37 @@
+body {
+    background-color: #f4f0ea;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.container {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #7a4e2d;
+}
+
+button {
+    background-color: #7a4e2d;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5f3c22;
+}
+
+#ausgabe {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
