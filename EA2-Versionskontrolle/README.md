@@ -48,3 +48,5 @@ Danach wurden die Änderungen wieder in `main` zusammengeführt.
 
 ![Merge](screenshots/06-merge-branches.png)
 ![Merge](screenshots/08-branch-farbe.png)
+
+## Test Text für Aufgabe 6
