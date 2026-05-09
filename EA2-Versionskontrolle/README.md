@@ -50,3 +50,9 @@ Danach wurden die Änderungen wieder in `main` zusammengeführt.
 ![Merge](screenshots/08-branch-farbe.png)
 
 ## Test Text für Aufgabe 6
+
+## Aufgabe 6 – Pull / Fetch durchgeführt
+
+Das lokale Repository wurde mit GitHub synchronisiert.
+
+![Pull](screenshots/08-pull.png)
