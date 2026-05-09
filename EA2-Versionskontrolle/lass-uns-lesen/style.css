@@ -1,12 +1,12 @@
 body {
-    background-color: #f4f0ea;
+    background-color: #d057c8;
     font-family: Arial, sans-serif;
     text-align: center;
     padding-top: 80px;
 }
 
 .container {
-    background-color: white;
+    background-color: rgb(151, 206, 240);
     width: 400px;
     margin: auto;
     padding: 30px;
@@ -14,11 +14,11 @@ body {
 }
 
 h1 {
-    color: #7a4e2d;
+    color: #4c1bbe;
 }
 
 button {
-    background-color: #7a4e2d;
+    background-color: #16e4e8;
     color: white;
     border: none;
     padding: 12px 20px;
@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-    background-color: #5f3c22;
+    background-color: #b50da1;
 }
 
 #ausgabe {
