@@ -3,7 +3,7 @@
 ## Aufgabe 1 – Repository erstellt
 
 ![Repository](screenshots/01-repository.png)
-![Repository](screenshots/02-erste-push.png)
+![Erster Commit](screenshots/02-erste-push.png)
 
 ## Aufgabe 2 – Kleines Projekt erstellt
 
